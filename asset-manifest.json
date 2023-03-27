@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/astronomyPicture/static/css/main.464fa911.css",
-    "main.js": "/astronomyPicture/static/js/main.bdc3533b.js",
-    "static/media/astronaut.png": "/astronomyPicture/static/media/astronaut.d9a1f60d4e7df26ac36a.png",
-    "static/media/galaxy.png": "/astronomyPicture/static/media/galaxy.faef7e908ebeb1321bda.png",
-    "static/media/error.gif": "/astronomyPicture/static/media/error.42292aa12b6bc303ce99.gif",
-    "index.html": "/astronomyPicture/index.html",
-    "main.464fa911.css.map": "/astronomyPicture/static/css/main.464fa911.css.map",
-    "main.bdc3533b.js.map": "/astronomyPicture/static/js/main.bdc3533b.js.map"
+    "main.css": "/astronomyPicture.git/static/css/main.464fa911.css",
+    "main.js": "/astronomyPicture.git/static/js/main.eb2d2878.js",
+    "static/media/astronaut.png": "/astronomyPicture.git/static/media/astronaut.d9a1f60d4e7df26ac36a.png",
+    "static/media/galaxy.png": "/astronomyPicture.git/static/media/galaxy.faef7e908ebeb1321bda.png",
+    "static/media/error.gif": "/astronomyPicture.git/static/media/error.42292aa12b6bc303ce99.gif",
+    "index.html": "/astronomyPicture.git/index.html",
+    "main.464fa911.css.map": "/astronomyPicture.git/static/css/main.464fa911.css.map",
+    "main.eb2d2878.js.map": "/astronomyPicture.git/static/js/main.eb2d2878.js.map"
   },
   "entrypoints": [
     "static/css/main.464fa911.css",
-    "static/js/main.bdc3533b.js"
+    "static/js/main.eb2d2878.js"
   ]
 }
